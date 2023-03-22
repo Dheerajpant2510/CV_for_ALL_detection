@@ -1,6 +1,5 @@
-# CV_for_ALL_detection
-Acute Lymphoblastic Leukemia detection using Computer Vision
 # Omdena Liverpool Chapter
+
 ## Detecting Pediatric Acute Lymphoblastic Leukemia using Computer Vision
 
 ### The Background
