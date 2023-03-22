@@ -1,5 +1,3 @@
-# Omdena Liverpool Chapter
-
 ## Detecting Pediatric Acute Lymphoblastic Leukemia using Computer Vision
 
 ### The Background
